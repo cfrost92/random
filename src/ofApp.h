@@ -28,5 +28,7 @@ private:
 
      vector<float> X, Y;
      ofImage jewel;
+	float xmin=0.0,xmax=1200.0;
+	float ymin=0.0,ymax=970.0;
   
 };
